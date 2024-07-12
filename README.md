@@ -6,7 +6,7 @@
 
 ## **System Demo:**
 
-![The System Demo](https://github.com/Mutiu123/Medical-Insurence-Premium-prediction-System/blob/main/demos/demo1.png)
+![The System Demo]()
 
 
 
