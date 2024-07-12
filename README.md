@@ -59,7 +59,7 @@ The Sentiment Analysis Tool simplifies the process of understanding movie review
 
 ## **System Demo:**
 
-![The System Demo]("https://github.com/Mutiu123/movie-review-sentiment-analysis/blob/main/demo/demo.png")
+![The System Demo](https://github.com/Mutiu123/movie-review-sentiment-analysis/blob/main/demo/demo.png)
 
 
 ## **To run the model**
