@@ -37,7 +37,7 @@
 I Deploy the Streamlight app on Heroku to allow others to access it online Here's an updated step-by-step guide on how to run the app on your device:
 
 1. **Access the Deployed App**:
-   - Visit the following link: [Movie Review Sentiment Analysis](https://mipsys-ba1cc9751f4a.herokuapp.com/).
+   - Visit the following link: [Movie Review Sentiment Analysis](https://mrsasys-7c869fa7f5db.herokuapp.com/).
    - You'll see the web interface where users can input patient information and get predictions.
 
 2. **Interact with the App**:
